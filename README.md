@@ -1,2 +1,2 @@
-# Daehan-minkook
-hi, my name is narge0415.
+# Project N
+NARGE
